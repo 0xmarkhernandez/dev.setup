@@ -13,4 +13,4 @@ chsh -s \`which zsh\`
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 
 ##### Iterm Colors
-[Download mister_robot_v2.itermcolors]( dev.setup/mister_robot_v2.itermcolors)
+[Download mister_robot_v2.itermcolors]( mister_robot_v2.itermcolors)
