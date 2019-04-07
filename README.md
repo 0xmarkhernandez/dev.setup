@@ -14,3 +14,8 @@ chsh -s \`which zsh\`
 
 ##### Iterm Colors
 [Download mister_robot_v2.itermcolors]( mister_robot_v2.itermcolors)
+
+##### Some Tools for your mac
+[iStat Menus](https://bjango.com/mac/istatmenus/)
+
+[Virtual Box](https://www.virtualbox.org/wiki/Downloads)
